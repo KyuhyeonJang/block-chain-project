@@ -15,4 +15,4 @@
 - Solidity를 통해서 '이더리움 코인'으로 이루어진 보증금의 거래가 이루어집니다.
 
 ## TOKEN ECONOMY
-![default](https://user-images.githubusercontent.com/43868254/46521363-50cec300-c8ba-11e8-95f7-6e9e66ac28f5.jpg)
+![1](https://user-images.githubusercontent.com/43868254/46522058-9b513f00-c8bc-11e8-92fe-f5dadc279a22.png)
