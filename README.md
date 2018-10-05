@@ -1,6 +1,7 @@
 # 블방
 
 ## TEAM
+IT Media Engineering
 - 김희호
 - 박선영
 - 장규현
